@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 // Token của bot
-const TOKEN = 'OTM0NjU2NDQ2NjM1ODQ3NzQx.GnzkP9.gP7oOEfzcjwQBSXlsikxD6jsrHc4RRGqdwghWg'; // Thay bằng token của bạn
+const TOKEN = 'TOKEN'; // Thay bằng token của bạn
 
 // Prefix mặc định
 let prefix = '!';
